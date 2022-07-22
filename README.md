@@ -2,10 +2,10 @@
 <h3 align="center">A dreamy guy that has the goal to uncover how complex things work, teaching how they work and making them better. </h3> 
 <br/>
 
-- 🔭 I’m currently working on [Project Work](https://github.com/egor-denysenko/ProjectWork-DIQU-Group1-2022)  
+- 🔭 I’m currently working on my [Dotfiles](https://github.com/egor-denysenko/.dotfiles)  
   
 
-- 🌱 I’m currently learning Golang and TDD  
+- 🌱 I’m currently learning Golang and TDD
   
 
 - ⚡ Fun fact: I am the guy with to many tabs opened in browsers
