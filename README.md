@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on my [Dotfiles](https://github.com/egor-denysenko/.dotfiles)  
   
-
 - 🌱 I’m currently learning Golang and TDD
   
+- :open_book: I'm currently reading Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
 - ⚡ Fun fact: I am the guy with to many tabs opened in browsers
   
