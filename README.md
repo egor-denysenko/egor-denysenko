@@ -2,7 +2,7 @@
 <h3 align="center">A dreamy guy that has the goal to uncover how complex things work, teaching how they work and making them better. </h3> 
 <br/>
 
-- 🔭 I’m currently working on my [Dotfiles](https://github.com/egor-denysenko/.dotfiles)  
+- 🔭 I’m currently working on [Shortic](https://github.com/egor-denysenko/Shortic)  
   
 - 🌱 I’m currently learning Golang and TDD
   
