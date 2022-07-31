@@ -76,8 +76,11 @@
 
 <br/>  
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egor-denysenko&hide_border=true&layout=compact" align="center" /></div>  
+<details><summary> Github Stats </summary>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=egor-denysenko&show_icons=true&count_private=true&hide_border=true" align="center" /></details>  
-</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egor-denysenko&show_icons=true&theme=gruvbox&locale=en" alt="egor-denysenko" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egor-denysenko&theme=dark" alt="egor-denysenko" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egor-denysenko&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="egor-denysenko" /></p>
