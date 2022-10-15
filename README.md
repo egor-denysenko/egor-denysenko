@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Egor</h1>  
 <h3 align="center">A dreamy guy that has the goal to uncover how complex things work, teaching how they work and making them better. </h3> 
 <br/>
-
-- 🔭 I’m currently working on [Shortic](https://github.com/egor-denysenko/Shortic)  
   
 - 🌱 I’m currently learning Golang and TDD
   
@@ -10,7 +8,6 @@
 
 - ⚡ Fun fact: I am the guy with to many tabs opened in browsers
   
-
 <br/>  
 
 
