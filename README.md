@@ -2,9 +2,9 @@
 <h3 align="center">A dreamy guy that has the goal to uncover how complex things work, teaching how they work and making them better. </h3> 
 <br/>
   
-- 🌱 I’m currently learning Golang and TDD
+- 🌱 I’m currently learning Golang
   
-- :open_book: I'm currently reading Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- :open_book: I'm currently reading: The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
 
 - ⚡ Fun fact: I am the guy with to many tabs opened in browsers
   
