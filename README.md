@@ -4,7 +4,7 @@
   
 - 🌱 I'm now looking for an open source project to contribute to in order to further develop my teamwork skills
   
-- :open_book: I'm currently reading: Deep Work: Rules for Focused Success in a Distracted World
+- :open_book: I'm currently reading: 100 Go Mistakes and How to Avoid Them
 
 - ⚡ Fun fact: I am the guy with to many tabs opened in browsers 
 
