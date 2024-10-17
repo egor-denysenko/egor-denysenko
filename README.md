@@ -2,8 +2,6 @@
 <h3 align="center">A passionate individual whose mission is to learn about the inner workings of complicated systems and improve them. </h3> 
 <br/>
   
-- :open_book: I'm currently reading: 100 Go Mistakes and How to Avoid Them
-
 - ⚡ Fun fact: I am the guy with to many tabs opened in browsers 
   
 <br/>  
